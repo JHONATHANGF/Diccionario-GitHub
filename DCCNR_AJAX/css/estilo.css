@@ -1,0 +1,30 @@
+﻿h1{
+    color:#028f05;
+}
+
+body {
+    background-image:url('/Web/vistas/img/color-de-madera.jpg');
+    background-repeat:no-repeat;
+    background-attachment:fixed;
+
+}
+.panel{
+    background-color:rgba(255,255,255,0.7);
+    padding:20px;
+    margin:20px;
+}
+p{
+    border: solid 1px #999;
+    padding:10px;
+    max-height:300px;
+    overflow-y: auto;
+    background-color:#FFF;
+}
+table{
+
+}
+table th{
+    background-color:#999;
+}table tr:nth-child(2n+1){
+     background-color:#DEDEDE;
+ }
