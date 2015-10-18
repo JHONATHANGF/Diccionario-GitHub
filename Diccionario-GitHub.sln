@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
 VisualStudioVersion = 12.0.40629.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DCCNR_AJAX", "DCCNR_AJAX\DCCNR_AJAX.csproj", "{02EFC98D-8483-4EC1-A1CF-C735BFCA25CF}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Diccionario-GitHub", "DCCNR_AJAX\Diccionario-GitHub.csproj", "{02EFC98D-8483-4EC1-A1CF-C735BFCA25CF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
